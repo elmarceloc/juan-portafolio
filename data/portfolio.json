@@ -63,7 +63,7 @@
           "id":"4",
           "title":"Universidad nacional de Ingenieria de Perú",
           "description":"Sistema de asistencia para alumnos de la facultad de ingienieria mecanica",
-          "imageSrc":"",
+          "imageSrc":"https://www.uni.edu.pe/images/logos/logo_uni_2016.png",
           "technologies":[
              "HTML",
              "CSS",
