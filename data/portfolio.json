@@ -52,7 +52,7 @@
           "id":"5",
           "title":"Chatbot",
           "description":"Chatbot integrado en aplicación movil",
-          "imageSrc":"https://i.imgur.com/X7kWzjv.png",
+          "imageSrc":"https://i.imgur.com/lWn2lhO.png",
           "services":"Algunos de nuestros clientes son: <b></b><ul><li>- REAMAX</li><li>- NTT DATA</li><li>- Colbun</li><li>- Inter Vial</li><li>- ENAEX</li></ul>",
           "technologies":[
              "Google Dialogflow"
