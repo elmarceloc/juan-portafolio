@@ -62,7 +62,7 @@
        },
         {
           "id":"5",
-          "title":"Chatbo",
+          "title":"Chatbot",
           "description":"Chatbot integrado en aplicación movil para clientes como REAMAX, NTT DATA, Colbun, Inter Vial, ENAEX",
           "imageSrc":"https://i.imgur.com/wvkTJcL.png",
           "technologies":[
