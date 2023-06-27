@@ -63,8 +63,9 @@
         {
           "id":"5",
           "title":"Chatbot",
-          "description":"Chatbot integrado en aplicación movil para clientes como REAMAX, NTT DATA, Colbun, Inter Vial, ENAEX",
+          "description":"Chatbot integrado en aplicación movil",
           "imageSrc":"https://i.imgur.com/X7kWzjv.png",
+          "services":"Algunos de nuestros clientes son: <b></b><ul><li>- REAMAX</li><li>- NTT DATA</li><li>- Colbun</li><li>- Inter Vial</li><li>- ENAEX</li></ul>",
           "technologies":[
              "Google Dialogflow"
           ],
